@@ -17,7 +17,7 @@ Install [go](https://golang.org/dl/) and run with:
 go run pi.go 
 ```
 
-Each hexadecimal digit is converted into four pixels. Each row contains four digits and each image contains a total of 64 digits. For easier viewing, the image is zoomed in by 8 so that each "pixel" is actually an 8x8 square. 
+Each hexadecimal digit is converted into four pixels. Each row contains four digits and each image contains a total of 32 digits. For easier viewing, the image is zoomed in by 8 so that each "pixel" is actually an 8x8 square. 
 
 Each volume contains 10,000 images and 100 volumes are created. These are found in the `images` directory. Create zip files in the `dist` directory using `make-dist.sh`. 
 
