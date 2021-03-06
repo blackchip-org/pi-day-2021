@@ -4,6 +4,12 @@ This year is 16x16 tiles using the digits of π.
 
 ![Tile 0](pi-00-0000.png)
 
+Download the imagery from here:
+
+https://blackchip.org/pi-day-2021
+
+## Building the Imagery
+
 Download a billion hexadecimal digits of π from:
 
 https://archive.org/details/pi_hex_1b
